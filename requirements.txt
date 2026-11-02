@@ -1,0 +1,2 @@
+semantic-kernel>=1.20          # add extras for other providers: [anthropic] [google] [ollama] [mistralai] [aws]
+python-dotenv>=1.0
